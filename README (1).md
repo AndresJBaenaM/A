@@ -109,5 +109,5 @@ Este proyecto fue desarrollado como entrega del **Trabajo 1** del curso de Lengu
 
 ## 👥 Autores
 
-- Juan Esteban 
+- Juan Esteban Gómez Gómez
 - Andrés Julián Baena Martínez

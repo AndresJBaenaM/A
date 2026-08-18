@@ -73,9 +73,9 @@ public class ReproductorGUI extends JFrame {
         this.modoOscuro = true;
 
         construirInterfaz();
+        aplicarTema(); // debe ir ANTES de tocar la lista: el renderer de celdas usa temaActual
         cargarCancionesDeEjemplo();
         cambiarAModo(ControladorReproductor.MODO_ALEATORIO);
-        aplicarTema();
     }
 
     // ==================== CONSTRUCCIÓN DE LA INTERFAZ ====================
